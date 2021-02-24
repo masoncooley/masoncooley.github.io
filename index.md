@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-  <html>
-    <head>
-      <h1>Hello kind person!</h1>
-    </head>
-    <body>
-      <p>I hope you are kind</p>
-    </body>
-</html> 
